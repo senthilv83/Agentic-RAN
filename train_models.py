@@ -24,7 +24,7 @@ def parse_parameters(param_str):
 
 print("Loading dataset...")
 df_raw = pd.read_csv(
-    "/Users/kelly/Downloads/GitHub/Papers/Agentic RAN/network_slicing_300.csv"
+    "/Users/Agentic RAN/network_slicing_300.csv"
 )
 parsed_data = df_raw["Parameters"].apply(parse_parameters)
 df = pd.DataFrame(list(parsed_data))
@@ -47,7 +47,7 @@ kmeans = KMeans(n_clusters=4, random_state=42, n_init="auto")
 kmeans.fit(X_scaled)
 
 # Save the models and preprocessors
-models_dir = "/Users/kelly/Downloads/GitHub/Papers/Agentic RAN/models"
+models_dir = "/Users/Agentic RAN/models"
 os.makedirs(models_dir, exist_ok=True)
 joblib.dump(rf_model, os.path.join(models_dir, "rf_model.joblib"))
 joblib.dump(kmeans, os.path.join(models_dir, "kmeans_model.joblib"))
