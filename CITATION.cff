@@ -5,7 +5,17 @@ authors:
   given-names: "Senthilkumar"
   orcid: "https://orcid.org/0009-0009-6436-9003"
   email: "senthilkumar.vb@gmail.com"
-title: "Agentic AI-Driven Framework for Adaptive Resource Allocation in 5G NR Satellite Networks"
+  affiliation: "IEEE Senior Member"
+title: "Agentic AI for 3GPP-Compliant Adaptive Resource Allocation in 5G NR Satellite Networks"
 version: 1.0.0
 date-released: 2026-04-04
 url: "https://github.com/senthilv83/Agentic-RAN"
+keywords:
+  - 5G NR
+  - Satellite Networks
+  - Agentic AI
+  - 3GPP TS 23.501
+  - Resource Allocation
+  - LangChain
+  - Machine Learning
+abstract: "An Agentic AI-driven framework for real-time, edge-level adaptive resource allocation in 5G NR Satellite Networks. This framework utilizes a multi-stage reasoning architecture powered by Machine Learning (Random Forest, K-Means) and Large Language Models (LLMs) via LangChain to provide explainable, policy-compliant resource allocation strategies."

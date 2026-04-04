@@ -1,4 +1,4 @@
-# Agentic AI-Driven Framework for Adaptive Resource Allocation in 5G NR Satellite Networks
+# Agentic AI for 3GPP-Compliant Adaptive Resource Allocation in 5G NR Satellite Networks
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework: LangChain](https://img.shields.io/badge/Framework-LangChain-green)](https://langchain.com/)
@@ -86,7 +86,7 @@ If you utilize this framework or code in your research, please use the following
 ```bibtex
 @software{Vijayakumar_Agentic_AI_5G_2026,
   author = {Vijayakumar, Senthilkumar},
-  title = {Agentic AI-Driven Framework for Adaptive Resource Allocation in 5G NR Satellite Networks},
+  title = {Agentic AI for 3GPP-Compliant Adaptive Resource Allocation in 5G NR Satellite Networks},
   year = {2026},
   url = {https://github.com/senthilv83/Agentic-RAN},
   orcid = {0009-0009-6436-9003}
