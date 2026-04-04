@@ -38,7 +38,7 @@ The framework utilizes a hybrid AI approach, bridging deterministic ML with gene
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Senthilkumar-Vijayakumar/Agentic-RAN.git
+   git clone https://github.com/senthilv83/Agentic-RAN.git
    cd Agentic-RAN
    ```
 
@@ -87,7 +87,7 @@ If you utilize this framework or code in your research, please use the following
   author = {Vijayakumar, Senthilkumar},
   title = {Agentic AI-Driven Framework for Adaptive Resource Allocation in 5G NR Satellite Networks},
   year = {2026},
-  url = {https://github.com/Senthilkumar-Vijayakumar/Agentic-RAN},
+  url = {https://github.com/senthilv83/Agentic-RAN},
   orcid = {0009-0009-6436-9003}
 }
 ```
