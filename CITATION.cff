@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Vijayakumar"
+  given-names: "Senthilkumar"
+  orcid: "https://orcid.org/0009-0009-6436-9003"
+  email: "senthilkumar.vb@gmail.com"
+title: "Agentic AI-Driven Framework for Adaptive Resource Allocation in 5G NR Satellite Networks"
+version: 1.0.0
+date-released: 2026-04-04
+url: "https://github.com/Senthilkumar-Vijayakumar/Agentic-RAN"
