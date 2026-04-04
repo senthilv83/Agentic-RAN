@@ -61,7 +61,8 @@ The framework utilizes a hybrid AI approach, bridging deterministic ML with gene
 
 ## 📊 Results & Inference
 
-The Agentic AI framework dramatically improves real-time adaptability in 5G satellite environments:
+The Agentic AI framework dramatically improves real-time adaptability in 5G satellite environments. **View the [Full Inference Results (RESULTS.md)](RESULTS.md) to see the 3GPP-compliant agentic report.**
+
 *   **Agentic Acceptance Rate:** 92%+ for resource allocation decisions.
 *   **Predictive Accuracy:** 0.94+ F1-score for QoS degradation classification via Random Forest.
 *   **Inference Latency:** Sub-200ms suitable for edge-device (e.g., NVIDIA Jetson) deployment when models are quantized.
